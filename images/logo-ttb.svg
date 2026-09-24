@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 850" role="img" aria-label="TTB Decorative Arts">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f7d878"/><stop offset=".35" stop-color="#c99937"/><stop offset=".68" stop-color="#f0c65a"/><stop offset="1" stop-color="#9a6b18"/></linearGradient></defs>
+<g fill="url(#g)" stroke="#9d701e" stroke-width="3">
+<path d="M105 120h790c95 0 165 62 165 145 0 66-42 117-105 137 76 17 126 73 126 151 0 106-83 177-205 177H560V258H415v472H290V258H180v-22h520v22H685v352h188c53 0 88-31 88-79 0-51-39-82-101-82h-76v-28h70c58 0 95-31 95-80 0-45-34-75-85-75H685v-22h179c92 0 157 45 157 115 0 56-35 98-91 118 72 16 118 65 118 130 0 91-71 145-177 145H560V258H415v494H290V258H180v-22h700c70 0 118-39 118-99 0-56-46-93-115-93H105z"/>
+</g>
+<text x="600" y="815" text-anchor="middle" fill="url(#g)" font-family="Arial,Helvetica,sans-serif" font-size="68" letter-spacing="16">TTB DECORATIVE ARTS</text>
+</svg>
